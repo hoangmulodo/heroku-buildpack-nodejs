@@ -20,8 +20,8 @@ function indent() {
 }
 
 # config
-NODE_VERSION="0.6.1"
-NPM_VERSION="1.0.105"
+NODE_VERSION="0.12.16"
+NPM_VERSION="2.5.11"
 SCONS_VERSION="1.2.0"
 S3_BUCKET="buildpack-nodejs-601"
 
